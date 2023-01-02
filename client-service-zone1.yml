@@ -21,6 +21,6 @@ management:
     
 sample:
   string:
-    property: Client Application
+    property: New Client Application
   int:
-    property: 3
+    property: 4
